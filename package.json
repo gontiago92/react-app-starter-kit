@@ -1,0 +1,19 @@
+{
+  "name": "react-app-starter-kit",
+  "version": "1.0.0",
+  "description": "Starter Kit for React projects. Lighter than the usual create-react-app command.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiago Gonçalves <tiago.goncalves.faria@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2"
+  }
+}
