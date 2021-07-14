@@ -1,1 +1,1 @@
-"# React App Starter Kit" 
+# React App Starter Kit
