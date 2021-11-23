@@ -4,9 +4,9 @@
   "description": "Starter Kit for React projects. Lighter than the usual create-react-app command.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx parcel .\public\index.html"
   },
-  "author": "Tiago Gonçalves <tiago.goncalves.faria@gmail.com>",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "react": "^17.0.2",
